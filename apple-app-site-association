@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FCZJK6TPD8.com.sharelink.olv",
+        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+      }
+    ]
+  }
+}
