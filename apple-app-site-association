@@ -5,6 +5,14 @@
       {
         "appID": "FCZJK6TPD8.com.sharelink.olv",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+      },
+      {
+        "appID": "FCZJK6TPD8.com.indunixiya.cherytest",
+        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+      },
+      {
+        "appID": "FCZJK6TPD8.com.chery.malaysia.test",
+        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       }
     ]
   }
