@@ -13,6 +13,10 @@
       {
         "appID": "FCZJK6TPD8.com.chery.malaysia.test",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+      },
+      {
+        "appID": "FCZJK6TPD8.com.chery.tuerqitest",
+        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       }
     ]
   }
