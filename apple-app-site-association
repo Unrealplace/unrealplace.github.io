@@ -3,19 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appID": "FCZJK6TPD8.com.sharelink.olv",
+        "appID": "xxxxxx.com.sharelink.olv",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       },
       {
-        "appID": "FCZJK6TPD8.com.indunixiya.cherytest",
+        "appID": "xxxxxx.com.indunixiya.cherytest",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       },
       {
-        "appID": "FCZJK6TPD8.com.chery.malaysia.test",
+        "appID": "xxxxxx.com.chery.malaysia.test",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       },
       {
-        "appID": "FCZJK6TPD8.com.chery.tuerqitest",
+        "appID": "xxxxxx.com.chery.tuerqitest",
         "paths": ["/activity", "/activity/*", "NOT /admin/*"]
       }
     ]
