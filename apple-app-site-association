@@ -13,24 +13,24 @@
       {
         "appID": "FCZJK6TPD8.com.indunixiya.cherytest",
         "paths": [
-          "/indonesia/activity",
-          "/indonesia/activity/*",
+          "/indonesia/chery/activity",
+          "/indonesia/chery/activity/*",
           "NOT /admin/*"
         ]
       },
       {
         "appID": "FCZJK6TPD8.com.chery.malaysia.test",
         "paths": [
-          "/malaysia/activity",
-          "/malaysia/activity/*",
+          "/malaysia/chery/activity",
+          "/malaysia/chery/activity/*",
           "NOT /admin/*"
         ]
       },
       {
         "appID": "FCZJK6TPD8.com.chery.tuerqitest",
         "paths": [
-          "/turkey/activity",
-          "/turkey/activity/*",
+          "/turkey/chery/activity",
+          "/turkey/chery/activity/*",
           "NOT /admin/*"
         ]
       }
