@@ -3,20 +3,36 @@
     "apps": [],
     "details": [
       {
-        "appID": "xxxxxx.com.sharelink.olv",
-        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+        "appID": "FCZJK6TPD8.com.sharelink.olv",
+        "paths": [
+          "/activity",
+          "/activity/*",
+          "NOT /admin/*"
+        ]
       },
       {
-        "appID": "xxxxxx.com.indunixiya.cherytest",
-        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+        "appID": "FCZJK6TPD8.com.indunixiya.cherytest",
+        "paths": [
+          "/indonesia/activity",
+          "/indonesia/activity/*",
+          "NOT /admin/*"
+        ]
       },
       {
-        "appID": "xxxxxx.com.chery.malaysia.test",
-        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+        "appID": "FCZJK6TPD8.com.chery.malaysia.test",
+        "paths": [
+          "/malaysia/activity",
+          "/malaysia/activity/*",
+          "NOT /admin/*"
+        ]
       },
       {
-        "appID": "xxxxxx.com.chery.tuerqitest",
-        "paths": ["/activity", "/activity/*", "NOT /admin/*"]
+        "appID": "FCZJK6TPD8.com.chery.tuerqitest",
+        "paths": [
+          "/turkey/activity",
+          "/turkey/activity/*",
+          "NOT /admin/*"
+        ]
       }
     ]
   }
